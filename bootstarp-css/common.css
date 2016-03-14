@@ -1,0 +1,9 @@
+body, ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div, dl, dt, dd, input { margin: 0; padding: 0; border: 0; }
+body { font-size: 14px; font-family:'微软雅黑'; background:#fff;}
+ul, ol { list-style-type: none; }
+select, input, img { vertical-align: middle; outline: none; }
+a { text-decoration: none; outline: none; blr:expression(this.onFocus=this.blur()) }
+
+html { overflow-x: hidden; }
+.clearfix:after { content: ""; display: block; clear: both; }
+.clearfix { zoom: 1; }
